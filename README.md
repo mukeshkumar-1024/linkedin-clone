@@ -12,8 +12,7 @@ A front-end recreation of the LinkedIn interface, built with HTML and CSS to pra
 
 ## Screenshot
 
-<!-- Take a screenshot, save it as docs/screenshot.png, then uncomment: -->
-<!-- ![LinkedIn — layout clone](docs/screenshot.png) -->
+![LinkedIn — layout clone](docs/screenshot.png)
 
 ## What it covers
 
